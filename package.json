@@ -1,0 +1,8 @@
+{
+  "name": "other-pkg",
+  "module": "index.ts",
+  "type": "module",
+  "dependencies": {
+    "logger": "git@github.com:Eckhardt-D/fake-logger.git"
+  }
+}
